@@ -1,0 +1,20 @@
+D:\image slide\image_slide_task\image_slide_task\bin\Debug\image_slide_task.exe.config
+D:\image slide\image_slide_task\image_slide_task\bin\Debug\image_slide_task.exe
+D:\image slide\image_slide_task\image_slide_task\bin\Debug\image_slide_task.pdb
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.csproj.AssemblyReference.cache
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.Form1.resources
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.Properties.Resources.resources
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.csproj.GenerateResource.cache
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.csproj.CoreCompileInputs.cache
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.exe
+D:\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.pdb
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\bin\Debug\image_slide_task.exe.config
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\bin\Debug\image_slide_task.exe
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\bin\Debug\image_slide_task.pdb
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.csproj.AssemblyReference.cache
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.Form1.resources
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.Properties.Resources.resources
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.csproj.GenerateResource.cache
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.csproj.CoreCompileInputs.cache
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.exe
+D:\تسكات دكتور رضا\image slide\image_slide_task\image_slide_task\obj\Debug\image_slide_task.pdb
